@@ -7,5 +7,3 @@ class CreateRoomUsers < ActiveRecord::Migration[6.0]
     end
   end
 end
-"room[user_ids][]"
-{"room" => {"user_ids" => ["選択したユーザーのid"]}}
